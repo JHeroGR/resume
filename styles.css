@@ -1,0 +1,39 @@
+body {
+    background-color: #f5f5dc;
+}
+
+article {
+    background-color: white;
+    padding: 20px;
+    box-shadow: 10px 10px 30px black;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    padding-top: 25px;
+}
+
+.portfolio-border {
+    border-top: 10px solid #78ff95;
+}
+
+.portfolio-skills {
+    border-top: 10px solid #ff78ed;
+}
+
+.portfolio-education {
+    border-top: 10px solid #ffaa78;
+}
+
+.portfolio-old-projects {
+    border-top: 10px solid #788cff;
+
+}
+
+.portfolio-activities {
+    border-top: 10px solid #ff7895;
+}
+
