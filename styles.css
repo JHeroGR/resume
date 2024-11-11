@@ -10,6 +10,7 @@ article {
 
 a {
     text-decoration: none;
+    color: black;
 }
 
 .container {
@@ -36,4 +37,24 @@ a {
 .portfolio-activities {
     border-top: 10px solid #ff7895;
 }
+
+@media only screen and (max-width: 1200px) {
+    iframe {
+        width: 260px;
+    }
+  }
+  
+  @media only screen and (max-width: 900px) {
+    iframe {
+        width: 180px;
+    }
+  }
+  
+  @media only screen and (max-width: 600px) {
+    iframe {
+        width: 350px;
+    }
+  }
+  
+  
 
