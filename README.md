@@ -1,5 +1,5 @@
-# WEBSITE v1
+# Resume
 
-My Website built in HTML and CSS
+My resume built in HTML and CSS
 
 [^1]: Footnote
