@@ -19,8 +19,14 @@ a {
     padding-top: 25px;
 }
 
-.portfolio-border {
+.portfolio-header {
+    border-top: 10px solid #ff7878;
+
+}
+
+.portfolio-work-experience {
     border-top: 10px solid #78ff95;
+
 }
 
 .portfolio-skills {
